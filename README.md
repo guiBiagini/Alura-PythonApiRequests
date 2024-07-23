@@ -8,7 +8,7 @@ Este repositório contém o material do curso que aborda as etapas essenciais pa
 * Fazer a autenticação e paginação na API do GitHub
 * Estruturar o pipeline em classes e métodos
 # Contexto
-Neste curso, iremos desempenhar o papel de pessoas engenheiras de dados em uma startup. Nosso objetivo é desenvolver um pipeline ETL utilizando a biblioteca Requests do Python e a API do GitHub.
+Papel de pessoas engenheiras de dados em uma startup. Com o objetivo é desenvolver um pipeline ETL utilizando a biblioteca Requests do Python e a API do GitHub.
 
 Estrutura do Repositório
 * dados/: Conjunto de dados processados após a utilização do script.
